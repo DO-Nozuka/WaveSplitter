@@ -1,0 +1,7 @@
+﻿namespace WaveSplitter
+{
+    class SplitResults
+    {
+
+    }
+}
